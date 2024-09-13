@@ -1,4 +1,4 @@
-# Authors
+# Authors(作者)
 
 The Qt 6 Book has been written by a team of authors. They are:
 

@@ -1,4 +1,4 @@
-# Acknowledgements
+# Acknowledgements 致谢
 
 This book would not have been possible to create without the kind sponsorship from **The Qt Company**. It is a privilege to be able to work on a project such as this, and their help has been invaluable. I would like to give a special mention to (alphabetically):
 
@@ -13,7 +13,7 @@ This book would not have been possible to create without the kind sponsorship fr
 - Ulf Hermann
 - Vladimir Minenko
 
-## Contributors
+## Contributors(贡献着)
 
 This book was made possible by the great community contributors. I would like to thank them all (alphabetically):
 
@@ -33,7 +33,7 @@ This book was made possible by the great community contributors. I would like to
 - VideoCarp
 - wangchunlin5013
 
-## History
+## History(历史)
 
 This book is based on [The QML Book](https://qmlbook.github.io/), originally written for Qt 5. I would like to thank all contributors to that book (alphabetically):
 
